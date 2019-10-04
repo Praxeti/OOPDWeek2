@@ -1,0 +1,11 @@
+F:\GitHub\OOPDWeek2 Vehicles\bin\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.deps.json
+F:\GitHub\OOPDWeek2 Vehicles\bin\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.runtimeconfig.json
+F:\GitHub\OOPDWeek2 Vehicles\bin\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.runtimeconfig.dev.json
+F:\GitHub\OOPDWeek2 Vehicles\bin\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.dll
+F:\GitHub\OOPDWeek2 Vehicles\bin\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.pdb
+F:\GitHub\OOPDWeek2 Vehicles\obj\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.csprojAssemblyReference.cache
+F:\GitHub\OOPDWeek2 Vehicles\obj\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.csproj.CoreCompileInputs.cache
+F:\GitHub\OOPDWeek2 Vehicles\obj\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.AssemblyInfoInputs.cache
+F:\GitHub\OOPDWeek2 Vehicles\obj\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.AssemblyInfo.cs
+F:\GitHub\OOPDWeek2 Vehicles\obj\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.dll
+F:\GitHub\OOPDWeek2 Vehicles\obj\Debug\netcoreapp2.2\OOPDWeek2 Vehicles.pdb
