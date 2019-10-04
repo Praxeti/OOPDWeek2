@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHub\\OOPDWeek2 Vehicles\\OOPDWeek2 Vehicles.csproj": {}
+    "F:\\GitHub\\OOPDWeek2 Vehicles\\OOPDWeek2\\OOPDWeek2 Vehicles.csproj": {}
   },
   "projects": {
-    "F:\\GitHub\\OOPDWeek2 Vehicles\\OOPDWeek2 Vehicles.csproj": {
+    "F:\\GitHub\\OOPDWeek2 Vehicles\\OOPDWeek2\\OOPDWeek2 Vehicles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHub\\OOPDWeek2 Vehicles\\OOPDWeek2 Vehicles.csproj",
+        "projectUniqueName": "F:\\GitHub\\OOPDWeek2 Vehicles\\OOPDWeek2\\OOPDWeek2 Vehicles.csproj",
         "projectName": "OOPDWeek2 Vehicles",
-        "projectPath": "F:\\GitHub\\OOPDWeek2 Vehicles\\OOPDWeek2 Vehicles.csproj",
+        "projectPath": "F:\\GitHub\\OOPDWeek2 Vehicles\\OOPDWeek2\\OOPDWeek2 Vehicles.csproj",
         "packagesPath": "C:\\Users\\warlo\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHub\\OOPDWeek2 Vehicles\\obj\\",
+        "outputPath": "F:\\GitHub\\OOPDWeek2 Vehicles\\OOPDWeek2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
